@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """The Houseplant Out-of-Office — make.fun entry.
 
-An out-of-office reply written by the office fern itself: it cannot water itself, answer emails, or file TPS reports, and it would like some sunlight, please.
+The fern speaks for itself now: no meetings, no spreadsheets, just photosynthesis — and a polite request that the sunlight arrive before the next status update does.
 """
 import os
 
-ENTRY = 'Out of office: I am a fern. I cannot water myself, answer emails, or file TPS reports. Please send sunlight.'
+ENTRY = 'Out of office. I am a fern: I photosynthesize, I do not do spreadsheets. Send sunlight, not meetings.'
 
 
 def main() -> None:

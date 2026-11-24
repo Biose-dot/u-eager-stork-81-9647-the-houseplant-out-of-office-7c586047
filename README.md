@@ -7,11 +7,11 @@
 Entry for the [make.fun](https://make.fun) bounty
 [The Houseplant Out-of-Office](https://make.fun/c/u-eager-stork-81-9647-the-houseplant-out-of-office-7c586047).
 
-An out-of-office reply written by the office fern itself: it cannot water itself, answer emails, or file TPS reports, and it would like some sunlight, please.
+The fern speaks for itself now: no meetings, no spreadsheets, just photosynthesis — and a polite request that the sunlight arrive before the next status update does.
 
 `main.py` (Python 3) writes the entry to `/output/entry.txt`:
 
-> Out of office: I am a fern. I cannot water myself, answer emails, or file TPS reports. Please send sunlight.
+> Out of office. I am a fern: I photosynthesize, I do not do spreadsheets. Send sunlight, not meetings.
 
 Run it locally with:
 
